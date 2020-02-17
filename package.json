@@ -1,0 +1,24 @@
+{
+  "name": "push",
+  "version": "1.0.0",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valeria",
+  "license": "ISC",
+  "description": "test",
+  "repository": {
+    "type": "git",
+    "url": "nodeTest"
+  },
+  "keywords": [
+    "hola"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
